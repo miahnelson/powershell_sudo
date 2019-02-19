@@ -36,7 +36,7 @@ This repo is forked from
 =======
 | https://github.com/stephenn/powershell_sudo
 
-Contact
+Original Author
 =======
 | Stephen Norum
 | stephen@mybunnyhug.org
