@@ -27,6 +27,7 @@
 # Stephen Norum
 # stephen@mybunnyhug.org
 # http://www.mybunnyhug.org/
+#
 
 function sudo()
 {
