@@ -37,15 +37,9 @@ Usage
 
 ![alt text](./img/powershell_sudo_notepad.PNG?style=centerme)
 
-This repo is forked from 
+This repo is Forked From: 
 =======
 | https://github.com/stephenn/powershell_sudo
-
-Original Author
-=======
-| Stephen Norum
-| stephen@mybunnyhug.org
-| http://www.mybunnyhug.org/
 
 The only change made was adding the script to auto create sudo.ps1
 
