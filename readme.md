@@ -1,9 +1,9 @@
-*********************
- Sudo for PowerShell
-*********************
 
-Automatic Installation
-============
+# Sudo for PowerShell
+
+
+## Automatic Installation
+
 1. Run a Powershell as an administrator
 
 2. Paste the following script
@@ -15,8 +15,7 @@ $script_path="$HOME\Documents\Scripts"; if (!(test-path $script_path)) {New-Item
 
 3. Enjoy
 
-Manual Installation
-============
+## Manual Installation
 1. From PowerShell, create a $profile if you don't have one::
 ```powershell
     if (!(test-path $profile)) { new-item -path $profile -itemtype file -force }
@@ -31,14 +30,12 @@ Manual Installation
 ```   
 4. sudo will be available in all new PowerShell windows
 
-Usage
-=====
+## Usage
 ``sudo application [arguments ...]``
 
 ![alt text](./img/powershell_sudo_notepad.PNG?style=centerme)
 
-This repo is Forked From: 
-=======
+## This repo is Forked From: 
 | https://github.com/stephenn/powershell_sudo
 
 The only change made was adding the script to auto create sudo.ps1
