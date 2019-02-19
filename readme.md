@@ -32,6 +32,8 @@ Usage
 =====
 ``sudo application [arguments ...]``
 
+![alt text](./img/powershell_sudo_notepad.PNG?style=centerme)
+
 This repo is forked from 
 =======
 | https://github.com/stephenn/powershell_sudo
