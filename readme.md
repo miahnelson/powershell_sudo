@@ -35,9 +35,5 @@ $script_path="$HOME\Documents\Scripts"; if (!(test-path $script_path)) {New-Item
 
 ![alt text](./img/powershell_sudo_notepad.PNG?style=centerme)
 
-## This repo is Forked From: 
-| https://github.com/stephenn/powershell_sudo
-
-The only change made was adding the script to auto create sudo.ps1
 
 
